@@ -2192,7 +2192,7 @@ html {
   }
   
   .div-block-2 {
-    background-image: url("https://cdn.prod.website-files.com/66620d698c47c62846e4d10a/666278aed93d4f1e35756dfb_herobg.webp");
+    background-image: url("/bg.webp");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -2206,9 +2206,9 @@ html {
   .div-block-2.container {
     z-index: 11;
     background-color: var(--red);
-    background-image: url("https://cdn.prod.website-files.com/66620d698c47c62846e4d10a/666278b7f998fdebc90aa8c8_bg.webp");
+    background-image: url("bg-2.jpeg");
     background-position: 50% 0;
-    background-size: contain;
+    background-size: cover;
     justify-content: flex-start;
     align-items: center;
     margin-top: 0;
@@ -2315,9 +2315,9 @@ html {
   
   .section {
     background-color: var(--red);
-    background-image: url("https://cdn.prod.website-files.com/66620d698c47c62846e4d10a/666278b7f998fdebc90aa8c8_bg.webp");
+    background-image: url("bg-2.jpeg");
     background-position: 0 0;
-    background-size: auto;
+    background-size: cover;
     flex-flow: column;
     justify-content: center;
     align-items: center;
@@ -2681,7 +2681,7 @@ html {
   .section-3 {
     z-index: 20;
     background-color: var(--light-red);
-    background-image: url("https://cdn.prod.website-files.com/66620d698c47c62846e4d10a/666278b7f998fdebc90aa8c8_bg.webp");
+    background-image: url("bg-2.jpeg");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
